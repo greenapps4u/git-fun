@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         print ("pierwsza apka")
         print ("It's first basic app")
         
-        print("New line")
+        print("New line2")
     }
 
     override func didReceiveMemoryWarning() {

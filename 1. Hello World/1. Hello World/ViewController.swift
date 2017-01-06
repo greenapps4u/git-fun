@@ -15,11 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         
-        print ("Hello World or/lub Witaj Świecie")
-        print ("pierwsza apka")
-        print ("It's first basic app")
-        
-        print("New line2")
+        print ("Welcome in world")
     }
 
     override func didReceiveMemoryWarning() {
